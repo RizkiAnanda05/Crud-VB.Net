@@ -1,0 +1,23 @@
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\bin\Debug\Crud.exe
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\bin\Debug\Crud.pdb
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\bin\Debug\Crud.xml
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\obj\x86\Debug\Crud.Form1.resources
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\obj\x86\Debug\Crud.Resources.resources
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\obj\x86\Debug\Crud.Tambah.resources
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\obj\x86\Debug\Crud.vbproj.GenerateResource.Cache
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\obj\x86\Debug\Crud.exe
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\obj\x86\Debug\Crud.xml
+C:\Users\Rizki Ananda Marsani\AppData\Local\Temporary Projects\Crud\obj\x86\Debug\Crud.pdb
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.exe
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.xml
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.pdb
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Debug\Crud.exe.config
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Debug\Crud.xml
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Debug\mysql.data.dll
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.vbprojResolveAssemblyReference.cache
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.Form1.resources
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.Resources.resources
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.Tambah.resources
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Debug\Crud.vbproj.GenerateResource.Cache

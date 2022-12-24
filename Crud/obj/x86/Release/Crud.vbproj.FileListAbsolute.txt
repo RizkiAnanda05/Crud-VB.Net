@@ -1,0 +1,12 @@
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Release\Crud.exe.config
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Release\Crud.exe
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Release\Crud.pdb
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Release\Crud.xml
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\bin\Release\mysql.data.dll
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Release\Crud.Form1.resources
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Release\Crud.Resources.resources
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Release\Crud.Tambah.resources
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Release\Crud.vbproj.GenerateResource.Cache
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Release\Crud.exe
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Release\Crud.xml
+C:\Users\Rizki Ananda Marsani\onedrive\documents\visual studio 2010\Projects\Crud\Crud\obj\x86\Release\Crud.pdb
